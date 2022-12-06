@@ -1,5 +1,4 @@
 # Final-Project
-Final Project
 There are different factors that trigger student
 dropout rate in Universities or in schools.Now educational
 institutions are in search of finding the answers what factors
