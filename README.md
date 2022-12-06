@@ -1,4 +1,15 @@
 # Final-Project
+
+#NAME- PREETHI BUKKA 
+#ROLLNO- 700741930 
+#CRN NO-11813
+
+TEAM MEMBERS- Preethi Bukka - 700741930
+            - Midhilesh Dusanapudi -700732415
+            - Sai Sree Chikkala -700726877
+            - Yamini Garikapati - 700732498
+            
+INTRODUCTION-          
 There are different factors that trigger student
 dropout rate in Universities or in schools.Now educational
 institutions are in search of finding the answers what factors
