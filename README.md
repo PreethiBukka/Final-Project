@@ -13,7 +13,7 @@ is current challenge to overcome. This dropout rate causes vary
 depending on the type of institution online or offline, student
 economical background, student participation in the curricular
 activities, instructor’s role etc.In this paper we are implementing
-3 types of features selection methods Correlation matrix, Univariate feature selection and wrapper methods. These methods
+3 types of features selection methods Correlation matrix, Univariate feature selection and wrapper methods. These methods
 are implemented using scikit-learn library. After applying the
 feature selection methods classification of student data into drop
 out or consistent is performed using machine learning algorithms
@@ -27,4 +27,4 @@ score and the non academic parameters are Social skills, Mode
 of transportation, Traveling time, Internet availability, Internet
 speed, Attendance, 5 hr practice and Teacher’s feedback.
 Index Terms—Feature selection, KNN(K Nearest Neighbors),
-KT(keeping terms), Semester Grade Point Average(SGPA), Correlation matrix
+KT(keeping terms), Semester Grade Point Average(SGPA), Correlation matrix
